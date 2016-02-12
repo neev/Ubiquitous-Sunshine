@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#000000</color>
+    <color name="background2">#000088</color>
+    <color name="digital_text">#ffffff</color>
+    <color name="digital_background">#03A9F4</color>
+    <color name="mydigital_text">#ffffff</color>
+    <color name="digital_text_dark">#addffb</color>
+    <color name="config_activity_background">#E91E63</color>
+    <color name="config_activity_header_text_color">#ffffff</color>
+    <color name="color_item_label_color">#000000</color>
+    <color name="color_item_circle_border_color">#424242</color>
+    <color name="digital_date">#ceffffff</color>
+    <color name="digital_temp_high">#ffffff</color>
+    <color name="digital_temp_low">#ceffffff</color>
+</resources>
